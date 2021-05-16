@@ -6,6 +6,9 @@
 </p>
 
 #### Miscellaneous :
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=tokyonight" alt="languages" height="100">
 </p>
