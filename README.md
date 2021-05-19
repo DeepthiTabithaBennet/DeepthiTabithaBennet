@@ -6,10 +6,6 @@
 ### Skills :
 <p> <img src="https://user-images.githubusercontent.com/71541429/118394393-22184c00-b662-11eb-9a88-b882e4ba7b30.jpeg" width="200"/> </p>
 
-* C/C++
-* Python
-* WordPress
-
 ### Miscellaneous :
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=tokyonight" alt="languages" height="100"> </p>
