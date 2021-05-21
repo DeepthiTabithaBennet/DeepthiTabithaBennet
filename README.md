@@ -2,6 +2,7 @@
 
 ### About me :
 * Self-Taught Coder
+* Future Data Scientist
 
 ### Skills :
 <p> <img src="https://user-images.githubusercontent.com/71541429/118394393-22184c00-b662-11eb-9a88-b882e4ba7b30.jpeg" width="200"/> </p>
