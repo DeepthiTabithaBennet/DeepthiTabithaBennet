@@ -13,7 +13,7 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia" alt="languages" height="100"> </p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia" alt="my github stats" width="400"/>&nbsp; </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia&include_all_commits=true" alt="my github stats" width="400"/>&nbsp; </p>
 
 <!--
 **DeepthiTabithaBennet/DeepthiTabithaBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
