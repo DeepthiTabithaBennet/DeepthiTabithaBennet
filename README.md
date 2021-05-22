@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
 
-### Check out @PreethiSamanthaBennet !
+### Check out [@PreethiSamanthaBennet](https://github.com/DeepthiTabithaBennet) !
 
 ### About me :
 * Self-Taught Coder
