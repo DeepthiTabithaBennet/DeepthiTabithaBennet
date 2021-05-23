@@ -7,7 +7,10 @@
 * Future Data Scientist
 
 ### Skills :
-<p> <img src="https://user-images.githubusercontent.com/71541429/118394393-22184c00-b662-11eb-9a88-b882e4ba7b30.jpeg" width="200"/> </p>
+<img src="https://img.shields.io/badge/-C%20&%20C++-000000?style=flat&logo=c%2B%2B&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress&logoColor=FFFFFF">
 
 ### Miscellaneous :
 
