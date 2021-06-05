@@ -1,8 +1,12 @@
+### Please leave a 🌟 before you clone my codes! 😃
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
 
 ### About me :
 * Self-Taught Coder
 * Future Data Scientist
+* Tech Memer
+* Demanding Perfectionist
 
 ### Skills :
 <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=FFFFFF" height="25">   <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=FFFFFF" height="25">   <img src="http://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FFFFFF" height="25">   <img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" height="25">   <img src="http://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=FFFFFF" height="25"> 
