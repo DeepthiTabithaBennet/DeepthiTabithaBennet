@@ -1,5 +1,3 @@
-### Please leave a 🌟 before you clone my codes! 😃
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
 
 ### About me :
