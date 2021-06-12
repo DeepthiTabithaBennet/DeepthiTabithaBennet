@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DeepthiTabithaBennet&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020" alt="DeepthiTabithaBennet" /></a> </p>
+
 ### About me :
 * Self-Taught Coder
 * Future Data Scientist
