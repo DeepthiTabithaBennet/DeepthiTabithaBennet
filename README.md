@@ -13,7 +13,7 @@
 
 ### Github Stats :
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true" alt="languages" height="120"> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="120"> </p>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="my github stats" width="400"/>&nbsp; </p>
 
