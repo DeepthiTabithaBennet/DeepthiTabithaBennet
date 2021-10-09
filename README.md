@@ -2,22 +2,22 @@
 
 <p align="left"> <a href="https://github.com/DeepthiTabithaBennet/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DeepthiTabithaBennet&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020,Commit,Star" alt="DeepthiTabithaBennet" width="1000" /></a> </p>
 
-### About Me :
+### I'm a...
 * Self-Taught Coder
 * Future Data Scientist
 * Tech Memer
 * Demanding Perfectionist
 
-### Skills :
+### My Skills 
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30">   <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" height="30"> 
 
-### Find me on :   
+### Find me on
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepthiTabithaBennet)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17112163/deepthitabithabennet)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/17982313/?ref=app) 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/deepthitabitha)
 
-### Github Stats :
+### My Github Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="120"> </p>
 
