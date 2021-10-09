@@ -16,7 +16,6 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17112163/deepthitabithabennet)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/17982313/?ref=app) 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/deepthitabitha)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-blue?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@deepthitabitha)
 
 ### Github Stats :
 
