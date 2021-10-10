@@ -25,7 +25,7 @@
 
 [![DeepthiTabithaBennet's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_title=true&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
 
-#### ✨Check out [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !✨
+##### ✨Check out [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !✨
 
 <!--
 **DeepthiTabithaBennet/DeepthiTabithaBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
