@@ -4,7 +4,7 @@
 
 ### I'm a...
 * Self-Taught Coder
-* Future Data Scientist
+* Future Data Scientist <img src="https://user-images.githubusercontent.com/71541429/138568446-2f81bc46-238d-4217-9378-48c4d6f33cc8.gif" height="200" align="right">
 * Tech Memer
 * Demanding Perfectionist
 
