@@ -7,7 +7,7 @@
 * Demanding Perfectionist
 
 ### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30">   <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" height="30"> 
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" height="30"> 
 
 ### Find me on
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepthiTabithaBennet)
@@ -17,7 +17,9 @@
 
 ### My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="120">   <img src="https://github-profile-trophy.vercel.app/?username=DeepthiTabithaBennet&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020" height="120"> 
+<img src="https://github-profile-trophy.vercel.app/?username=DeepthiTabithaBennet&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020" height="120">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="120">
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="my github stats" width="400"/>&nbsp; </p>
 
