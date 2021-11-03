@@ -12,7 +12,7 @@
 
 ### Find me on
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepthiTabithaBennet)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17112163/deepthitabithabennet)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17112163/deepthi-tabitha-bennet)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/17982313/?ref=app) 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/deepthitabitha)
 
