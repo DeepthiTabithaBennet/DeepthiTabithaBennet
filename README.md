@@ -25,6 +25,8 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="my github stats" width="400"/>&nbsp; </p>
 
+[![DeepthiTabithaBennet's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_title=true&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
+
 -------------------------------------------------------------------------------------------------------
 **Check out 
 ✨[`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet)✨**
