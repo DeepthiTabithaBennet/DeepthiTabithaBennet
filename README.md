@@ -3,7 +3,7 @@
 ### I'm a...   <img src="https://user-images.githubusercontent.com/71541429/138568446-2f81bc46-238d-4217-9378-48c4d6f33cc8.gif" height="175" align="right">
 * Self-Taught Coder
 * Future Data Scientist 
-* Tech Memer
+* Journal Paper Author
 * Demanding Perfectionist
 
 -------------------------------------------------------------------------------------------------------
