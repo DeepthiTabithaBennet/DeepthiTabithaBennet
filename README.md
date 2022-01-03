@@ -30,7 +30,7 @@
 
 -------------------------------------------------------------------------------------------------------
 ### Stuff I'm working on Right Now
-* [NetsGoPlaces](https://github.com/DeepthiTabithaBennet/NetsGoPlaces), a website for all pre-placement services
+* [NetsGoPlaces](https://github.com/DeepthiTabithaBennet/NetsGoPlaces) - a website for all pre-placement services
 * [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
 -------------------------------------------------------------------------------------------------------
 **Check out 
