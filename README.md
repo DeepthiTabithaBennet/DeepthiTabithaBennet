@@ -29,6 +29,10 @@
 [![DeepthiTabithaBennet's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_title=true&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
 
 -------------------------------------------------------------------------------------------------------
+### Stuff I'm working on Right Now
+* [NetsGoPlaces](https://github.com/DeepthiTabithaBennet/NetsGoPlaces), a website for all pre-placement services
+* [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
+-------------------------------------------------------------------------------------------------------
 **Check out 
 ✨[`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet)✨**
 
