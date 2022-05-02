@@ -9,7 +9,7 @@
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" height="30"> 
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Oracle-blue?style=for-the-badge&logo=oracle&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" height="30"> 
 
 ### Find me on
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-tabitha-bennet-24455222a)
@@ -18,6 +18,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/deepthitabithabennet)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/17982313/?ref=app) 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/deepthitabitha)
+[![Medium](https://img.shields.io/badge/-Medium-blue?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DeepthiTabithaBennet)
 
 -------------------------------------------------------------------------------------------------------
 ### Stuff I'm working on Right Now
