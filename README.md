@@ -11,7 +11,10 @@
 ### My Skills 
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Oracle-blue?style=for-the-badge&logo=oracle&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" height="30"> 
 
-### Find me on
+### Find me on 
+
+_(click the buttons!)_
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-tabitha-bennet-24455222a)
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepthiTabithaBennet)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17112163/deepthitabithabennet)
