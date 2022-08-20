@@ -1,4 +1,4 @@
-<h1> Hey,  I'm <a href="https://www.linkedin.com/in/deepthi-tabitha-bennet-24455222a"> Deepthi :sunglasses: </h1>
+<h2> Hey,  I'm <a href="https://www.linkedin.com/in/deepthi-tabitha-bennet-24455222a"> Deepthi :sunglasses: </h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet&style=flat-square" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
