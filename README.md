@@ -43,6 +43,11 @@ _(click the buttons!)_
 [![DeepthiTabithaBennet's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
 
 -------------------------------------------------------------------------------------------------------
+### My Latest Medium Articles
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0" alt="Recent Article 0"> 
+
+-------------------------------------------------------------------------------------------------------
 **Check out 
 ✨[`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet)✨**
 
