@@ -45,9 +45,9 @@ _(click the buttons!)_
 -------------------------------------------------------------------------------------------------------
 ### My Latest Medium Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0" alt="Recent Article 0" width="1000"> </a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0" alt="Recent Article 0"> </a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/1" alt="Recent Article 1" width="1000"> </a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/1" alt="Recent Article 1"> </a>
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
