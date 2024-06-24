@@ -36,7 +36,7 @@ _(click the buttons!)_
 
 <img src="https://github-profile-trophy.vercel.app/?username=DeepthiTabithaBennet&row=1&column=3&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020,Commit,Star" height="120">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepthiTabithaBennet&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="170" align="right">
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="my github stats" width="400"/>&nbsp; </p>
 
@@ -52,6 +52,8 @@ _(click the buttons!)_
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/2" alt="Recent Article 2"> </a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/3" alt="Recent Article 3"> </a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/4" alt="Recent Article 4"> </a>
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
